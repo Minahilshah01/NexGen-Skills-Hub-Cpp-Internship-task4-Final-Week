@@ -181,3 +181,6 @@ project-root/
 - Data file uses a fixed name (`accounts.dat`) in the working directory; no configurable path.
 
 ---
+Author
+Syeda Minahil Zahra
+C++ Development Intern — NexGen Skills Hub
